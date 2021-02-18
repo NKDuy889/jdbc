@@ -1,0 +1,27 @@
+
+q
+java:S2095""OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(€õ÷üÿÿÿÿ8Ûœšû.
+[	java:S106›"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ8˜ğ£û.
+j
+java:S1192)"HDefine a constant instead of duplicating this literal "address" 3 times.(åø²çÿÿÿÿÿ8äï¯£û.
+E
+java:S2115")Add password protection to this database.(…ôV8Ûœšû.
+l
+java:S2095="OUse try-with-resources or close this "CallableStatement" in a "finally" clause.(¾íœÙ8Üö´£û.
+O
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8Ûœšû.
+X	java:S125&"<This block of commented-out lines of code should be removed.(˜è8Ûœšû.
+[	java:S106£"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8˜ğ£û.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(€¯Ê88Ûœšû.
+[	java:S106™"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8˜ğ£û.
+l
+java:S2095|"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ªçÏµ8­æ£û.
+m
+java:S2095‰"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(“•¿ì8˜ğ£û.
+]	java:S125;"<This block of commented-out lines of code should be removed.(À†…÷ûÿÿÿÿ8¦’°£û.
+l
+java:S2095b"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÙÛ¡ç8É™šû.
+l
+java:S2095Q"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‡ÄÖÌ8Ûœšû.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(úÎÑ¢8Ûœšû.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Å»¶‡8Ûœšû.

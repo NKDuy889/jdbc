@@ -1,0 +1,23 @@
+
+W
+java:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿8—ñ˜û.
+C	java:S1315""Add a default case to this switch.(ë´åİşÿÿÿÿ8—ñ˜û.
+m
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ë´åİşÿÿÿÿ8—ñ˜û.
+ƒ
+java:S1989"fHandle the following exceptions that could be thrown by "editCustomer": ServletException, IOException.(óÔ8—ñ˜û.
+u
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(¯û8—ñ˜û.
+†
+java:S19897"iHandle the following exceptions that could be thrown by "showAllCustomer": ServletException, IOException.(Ö²Õá8—ñ˜û.
+†
+java:S1989"iHandle the following exceptions that could be thrown by "showAllCustomer": ServletException, IOException.(Ö²Õá8—ñ˜û.
+a
+java:S2147Z"DCombine this catch with the one at line 88, which has the same body.(ï­£Ä8âÍ°¢û.
+™
+java:S1130%"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(ˆÛÜÿıÿÿÿÿ8—ñ˜û.
+\
+java:S1161/":Add the "@Override" annotation above this method signature(Ïû©Öûÿÿÿÿ8—ñ˜û.
+ƒ
+java:S1989:"fHandle the following exceptions that could be thrown by "showFormEdit": ServletException, IOException.(‹Ñı8—ñ˜û.
+C	java:S131""Add a default case to this switch.(ë´åİşÿÿÿÿ8—ñ˜û.
